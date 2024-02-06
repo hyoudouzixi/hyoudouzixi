@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi there 👋
+- 🇨🇳 I'm from China
+- 🌰 I’m currently a student at the Ohio State University
+- 🍱 I love food
 
 <!--
 **hyoudouzixi/hyoudouzixi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
