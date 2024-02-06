@@ -1,5 +1,5 @@
 Hi there 👋
-- 🇨🇳 I'm from China
+- I'm from China
 - 🌰 I’m currently a student at the Ohio State University
 - 🍱 I love food
 
